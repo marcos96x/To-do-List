@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, #0e0e0e, #0e0e0e 100%);
+    font-family: sans-serif;
+}
+  
+
+/* label focus color */
+
+ .input-field input:focus+label {
+    color: rgb(159, 28, 219) !important;
+  }
+ .input-field textarea:focus+label {
+    color: rgb(159, 28, 219) !important;
+  }
+  
+  
+  /* label underline focus color */
+  
+.row .input-field input:focus {
+    border-bottom: 1px solid rgb(159, 28, 219) !important;
+    box-shadow: 0 1px 0 0 rgb(159, 28, 219) !important;
+    color: rgb(159, 28, 219);
+  
+  }
+  
+  
+ .row .input-field textarea:focus {
+    border-bottom: 1px solid rgb(159, 28, 219) !important;
+    box-shadow: 0 1px 0 0 rgb(159, 28, 219) !important;
+    color: rgb(159, 28, 219);
+  
+  }
+  
+  .input-field  textarea:focus+label{
+    color: rgb(159, 28, 219);
+    max-width: 90%;
+  
+  }
+  
+  .row .input-field textarea {
+    border-bottom: 1px solid rgb(159, 28, 219) !important;
+    box-shadow: 0 1px 0 0 rgb(159, 28, 219) !important;
+    color: rgb(159, 28, 219);
+    max-width: 90%;
+  
+  }

@@ -1,0 +1,44 @@
+.Login {
+    margin-top: 20px;
+    max-width: 100%;
+    border-radius: 20px;
+    background-color: #eeeeee;
+}
+
+.title-login {
+    background-color: rgb(26, 26, 26);
+    color: cornsilk;
+}
+
+.foto-login {
+    max-width: 80%;
+    float: left;
+}
+
+.Login .username-field {
+    border-radius: 15px;
+    background-color: rgb(219, 219, 219);
+    color: rgb(49, 49, 49);
+    width: 350px;
+    height: 30px;
+    padding-left: 10px;
+    font-size: 17px;
+}
+
+.extras {
+    display: inline-flex;
+    font-size: 15px;
+}
+
+.checkbox_logado {
+    position: left;
+}
+
+img {
+    max-width: 150px;
+}
+
+.content {
+    font-size: 12px;
+    margin-right: 10px;
+}

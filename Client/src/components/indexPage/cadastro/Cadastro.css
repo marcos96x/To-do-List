@@ -1,0 +1,23 @@
+.Cadastro {
+    margin-top: 20px;
+    max-width: 100%;
+    border-radius: 20px;
+    background-color: #eeeeee;
+}
+
+.eyeIcon {
+    margin-top: 25px;
+    color: rgb(159, 28, 219);
+    font-size: 40px;
+}
+
+.title-cadastro {
+    background-color: rgb(26, 26, 26);
+    color: cornsilk;
+}
+
+.foto_cadastro {
+    max-width: 90%;
+    float: left;
+    margin-top: 30px;
+}

@@ -1,0 +1,22 @@
+.campo-perfil {
+    background-color: rgb(44, 44, 44);
+    margin-top: 20px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.informacoes {
+    margin-top: 5px;
+    text-align: justify;
+}
+
+.foto {
+    margin-top: 12px;
+}
+
+.edicao {
+    margin-bottom: 10px;
+}
+
+.label {
+    font-size:14px;
+}

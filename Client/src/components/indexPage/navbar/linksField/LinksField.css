@@ -1,0 +1,24 @@
+.links-field {
+    text-align: right;
+    margin-right: 100px;
+    color: rgb(228, 187, 228);
+    margin-top: 20px;
+}
+
+.btn-transparent {
+    background-color: transparent;
+    border: 2px solid transparent;
+    color: thistle;
+    height: 50px;
+    width: 90px;
+    transition-duration: 0.2s;
+}
+
+.btn-transparent:hover {
+    border-bottom-color: rgba(0, 0, 0, 0.13);
+}
+
+.navMobile {
+    background-color: transparent;
+    border: 1px solid transparent;
+}

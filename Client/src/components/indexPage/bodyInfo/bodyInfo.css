@@ -1,0 +1,108 @@
+.BodyInfo {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.info-left {
+    max-width: 48%;
+    float: left;
+    margin-top: 60px;
+}
+
+.info-left h3 {
+    color: rgba(240, 214, 240, 0.931);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.info-left h6 {
+    color: rgba(170, 170, 170, 0.822);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.info-right {
+    max-width: 48%;
+    float: right;
+}
+
+.info-right-mobile {
+    max-width: 100%;
+}
+
+.btn-mobile {
+    width: 120px;
+    height: 40px;
+    border-radius: 50px;
+    border: 1px solid transparent;
+    margin-top: 20px;
+}
+
+.btn {
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid transparent;
+    margin-top: 20px;
+}
+
+.btn-entrar {
+    background-image: linear-gradient(to right,#4399fb, #0084ff 100%);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition-duration: 0.2s;
+}
+
+.btn-entrar:hover {
+    background-image: linear-gradient(to right, #0084ff,#4399fb 100%);
+    border-color: rgba(47, 63, 63, 0.753);
+}
+
+.btn-cadastro {
+    background-image: linear-gradient(to right,#9627e0, #8a0adf 100%);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition-duration: 0.2s;
+    margin-left: 90px;
+}
+
+.btn-login {
+    background-image: linear-gradient(to right,#9627e0, #8a0adf 100%);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition-duration: 0.2s;
+}
+
+.btn-login-desk {
+    background-image: linear-gradient(to right,#9627e0, #8a0adf 100%);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition-duration: 0.2s;
+    
+}
+
+.btn-cadastro2 {
+    background-image: linear-gradient(to right,#9627e0, #8a0adf 100%);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition-duration: 0.2s;
+}
+
+.btn-cadastro:hover {
+    background-image: linear-gradient(to right, #8a0adf,#9627e0 100%);
+    border-color: rgba(47, 63, 63, 0.753);
+}
+
+.info h5 {
+    color: rgb(233, 233, 233);
+}
+
+.info p {
+    color: rgb(107, 107, 107);
+}
+
+.btn-cadastro-mobile {
+    background-image: linear-gradient(to right,#9627e0, #8a0adf 100%);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition-duration: 0.2s;
+}
