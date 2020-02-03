@@ -45,7 +45,7 @@ Abaixo estará todas as telas de forma responsiva. Qualquer sugestão, tanto de 
 
 ![](screenshots/mobile_tela_inicial.png)  ![](screenshots/mobile_login.png) 
 
-![](screenshots/mobile_cadastro.png)  ![](screenshots/mobile_tela_inicial.png)   
+![](screenshots/mobile_cadastro.png)  ![](screenshots/mobile_tarefas_descricao.png)  
 
-![](screenshots/mobile_tarefas_descricao.png)  ![](screenshots/mobile_perfil.png)  
+![](screenshots/mobile_perfil.png)  
 
