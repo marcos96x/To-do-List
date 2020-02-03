@@ -2,7 +2,7 @@
 Sistema de gestão de suas tarefas desenvolvido em React e Node JS.  
 
 #### Tela inicial
-![](screenshots/tela_inicial.png)   
+![](screenshots/tela_inicial.png?w=100)    
 
 To-do List é uma plataforma web para gerenciar suas tarefas, podendo ser exibidas de acordo com suas categorias (pendentes e concluídas). Se você já é registrado, poderá efetuar seu login.  
 
@@ -43,15 +43,9 @@ Ao clicar no botão de editar localizado no canto inferior direito é possível 
 Abaixo estará todas as telas de forma responsiva. Qualquer sugestão, tanto de código como de design será bem vinda :D  
 
 
-![](screenshots/mobile_tela_inicial.png) 
+![](screenshots/mobile_tela_inicial.png)  ![](screenshots/mobile_login.png) 
 
-![](screenshots/mobile_login.png) 
+![](screenshots/mobile_cadastro.png)  ![](screenshots/mobile_tela_inicial.png)   
 
-![](screenshots/mobile_cadastro.png) 
-
-![](screenshots/mobile_tela_inicial.png) 
-
-![](screenshots/mobile_tarefas_descricao.png) 
-
-![](screenshots/mobile_perfil.png) 
+![](screenshots/mobile_tarefas_descricao.png)  ![](screenshots/mobile_perfil.png)  
 
